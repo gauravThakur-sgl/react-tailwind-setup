@@ -8,6 +8,7 @@ export default function App() {
         <Pricing itemLabel="Price" placeholder="0.00" currency="$" />
         <Pricing itemLabel="Currency In EUR" placeholder="0.00" currency="Eur" />
         <Input itemLabel="Email" placeholder="you@example.com" text="We'll only use this for spam"/>
+        <Input itemLabel="Search Here"  placeholder="www.google.com" type="search"/>
       </div>
     </>
   );
